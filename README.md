@@ -52,7 +52,7 @@
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](<h1 align="center">Hi 👋, I'm Vishal Patel</h1>
+[![LinkedIn](www.linkedin.com/in/patel18)](<h1 align="center">Hi 👋, I'm Vishal Patel</h1>
 
 <p align="center">
   Aspiring Software Engineer @ Google | Backend & Cloud Developer | .NET, GCP, System Design
