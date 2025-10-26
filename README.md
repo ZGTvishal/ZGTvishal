@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vishal Patel</h1>
 
 <p align="center">
-  Aspiring Software Engineer @ Google | Backend & Cloud Developer | .NET, GCP, System Design
+  Aspiring Software Engineer @ Google | Full Stack Developer | Python, Django, System Design
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 💻 I'm a full-stack developer specializing in **.NET**, **C#**, and **SQL Server**
+- 💻 I'm a full-stack developer specializing in **Django**, **Python**, and **SQL**
 - ☁️ Currently focused on **Google Cloud Platform**, scalable systems, and **microservices architecture**
 - 🧩 I solve **DSA problems** daily to strengthen my problem-solving skills
 - 🎯 My goal is to become a **Software Developer at Google by October 2026**
