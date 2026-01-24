@@ -50,7 +50,6 @@
 
 _“The future belongs to those who believe in the beauty of their dreams.” – Eleanor Roosevelt_
 )
-[![Email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalpatel2000official@gmail.com)
 
 ---
 
