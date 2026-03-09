@@ -28,6 +28,7 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [MvcMovie](https://github.com/ZGTvishal/MvcMovie) | ASP.NET MVC, SQL Server | Movie catalog with CRUD features and Razor views |
+| [NotesApp](https://github.com/ZGTvishal/NotesApp) | Django, Python, CSS, HTML | Notes App to create, update and delete notes |
 
 ---
 
@@ -43,7 +44,7 @@
 
 ### 📬 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/patel18)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patel18)
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vp10169@gmail.com)
 
 ---
