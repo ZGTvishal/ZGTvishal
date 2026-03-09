@@ -35,7 +35,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZGTvishal&show_icons=true&theme=tokyonight" />
+  <img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/github-readme-stats.svg?username=ZGTvishal&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZGTvishal&theme=tokyonight" />
 </p>
