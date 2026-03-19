@@ -27,7 +27,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [MvcMovie](https://github.com/ZGTvishal/MvcMovie) | ASP.NET MVC, SQL Server | Movie catalog with CRUD features and Razor views |
+| [Distributed Job Processing Platform](https://github.com/ZGTvishal/Distributed-Job-Processing-Platform) | Python, Postgresql, Redis, Docker | In Progress
 | [NotesApp](https://github.com/ZGTvishal/NotesApp) | Django, Python, CSS, HTML | Notes App to create, update and delete notes |
 
 ---
