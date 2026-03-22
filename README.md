@@ -6,14 +6,14 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - I'm a full-stack developer specializing in **Django**, **Python**, **C#**, **.NET** and **SQL**
 - Pursuing Master's degree in Computer Science from University of Liverpool
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
@@ -32,7 +32,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZGTvishal&show_icons=true&theme=tokyonight" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patel18)
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vp10169@gmail.com)
