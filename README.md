@@ -73,6 +73,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZGTvishal&theme=tokyonight" />
 </p>
 
+### Leetcode Heatmap
+
+<p align="center">
+  <img src= "https://leetcard.jacoblin.cool/p18vishal?theme=dark&ext=contest"/>
+</p>
+
 ---
 
 _"The best way to predict the future is to build it."_
