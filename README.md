@@ -22,11 +22,11 @@
 
 ### About Me
 
-- 🐍 **Python Backend Engineer** with 3+ years building APIs, data pipelines, and distributed systems
-- 🤖 Building **LLM-powered applications** with LangChain, OpenAI, and Anthropic APIs
-- 🏗️ Experienced across **fintech, healthtech, and enterprise SaaS** environments
-- 🎓 Pursuing **MSc Computer Science** at the University of Liverpool (2025–2026)
-- 🇬🇧 Based in Liverpool, UK — eligible to work on the **Graduate Route visa**
+- **Python Backend Engineer** with 3+ years building APIs, data pipelines, and distributed systems
+- Building **LLM-powered applications** with LangChain, OpenAI, and Anthropic APIs
+- Experienced across **fintech, healthtech, and enterprise SaaS** environments
+- Pursuing **MSc Computer Science** at the University of Liverpool (2025–2026)
+- Based in Liverpool, UK — eligible to work on the **Graduate Route visa**
 
 ---
 
