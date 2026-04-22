@@ -59,7 +59,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [AI Research Agent](https://github.com/ZGTvishal/Distributed-Job-Processing-Platform) | Python · LangChain · Gemma4 | Production-grade autonomous research agent with worker-based architecture and async task queues. Extends into a UK job application automation pipeline with ATS optimisation and Reed API integration. |
+| [AI Research Agent](https://github.com/ZGTvishal/Distributed-Job-Processing-Platform) | Python · LangChain · Gemma4 | Production-grade autonomous research agent with worker-based architecture and async task queues. | Planning to integrate RAG and Arxiv for better results |
 | [Distributed Job Processing Platform](https://github.com/ZGTvishal/Distributed-Job-Processing-Platform) | Python · PostgreSQL · Redis · Docker | Scalable distributed job processing system — in progress |
 | [NotesApp](https://github.com/ZGTvishal/NotesApp) | Django · Python · HTML · CSS | Full-stack notes application with full CRUD functionality |
 
