@@ -26,7 +26,7 @@
 - Building **LLM-powered applications** with LangChain, OpenAI, and Anthropic APIs
 - Experienced across **fintech, healthtech, and enterprise SaaS** environments
 - Pursuing **MSc Computer Science** at the University of Liverpool (2025–2026)
-- Based in Liverpool, UK — eligible to work on the **Graduate Route visa**
+- Based in Liverpool, UK — eligible to work on the **Graduate Route visa** for 2 years
 
 ---
 
