@@ -60,7 +60,7 @@
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [AI Research Agent](https://github.com/ZGTvishal/Distributed-Job-Processing-Platform) | Python · LangChain · Gemma4 | Production-grade autonomous research agent with worker-based architecture and async task queues. |
-| [Distributed Job Processing Platform](https://github.com/ZGTvishal/Job_Tracker) | Python · PostgreSQL · FastAPI · Docker | Job application Tracker — In progress |
+| [Job Tracker](https://github.com/ZGTvishal/Job_Tracker) | Python · PostgreSQL · FastAPI · Docker | Job application Tracker — In progress |
 | [MARS](https://github.com/ZGTvishal/MARS-Multi-Agent-Research-System) | Python · LangGraph · Gemma4 · LangChain · FAISS · RAG| Multi Agent research system |
 | [NotesApp](https://github.com/ZGTvishal/NotesApp) | Django · Python · HTML · CSS | Full-stack notes application with full CRUD functionality |
 
